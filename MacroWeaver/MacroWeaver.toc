@@ -1,0 +1,13 @@
+## Interface: 16001
+## Title: MacroWeaver
+## Notes: Visual macro builder for every class. Open with /mw.
+## Author: yockanookany
+## Version: 1.0.0
+## SavedVariablesPerCharacter: MacroWeaverDB
+
+Data/ClassSpells.lua
+Catalog.lua
+Builder.lua
+Managed.lua
+RankFlags.lua
+UI.lua
